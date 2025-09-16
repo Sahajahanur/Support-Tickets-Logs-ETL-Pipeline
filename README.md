@@ -36,17 +36,7 @@ The pipeline integrates S3, Lambda, Glue, and Redshift Spectrum into a seamless 
 
 📂 Repository Structure
 
-data-transformation/
-│   ├── support-log-transformation/
-│   │   └── lambda_log_etl.py
-│   ├── support-tickets-transformation/
-│   │   └── glue_ticket_etl.py
-assests/
-│   ├── Pipeline_architecture.jpg
-│   ├── logs.drawio.png
-│   ├── logs-insights.png
-│   ├── tickets.drawio.png
-│   ├── tickets-insights.png
+<img width="835" height="281" alt="image" src="https://github.com/user-attachments/assets/30d476c4-c6ff-4032-9bb4-47add2122a72" />
 
 ## ⚙️ Tech Stack
 
