@@ -48,8 +48,11 @@ The pipeline integrates S3, Lambda, Glue, and Redshift Spectrum into a seamless 
 
 ## 📌 Key Learnings
 ✅ Building ETL pipelines with AWS services 
+
 ✅ Handling structured (CSV) & unstructured (logs) data 
+
 ✅ Designing scalable data lake → warehouse architecture 
+
 ✅ Visualizing insights from Redshift queries
 
 ## 📬 Contact
