@@ -12,7 +12,7 @@ CarePlus is a self-built, end-to-end AWS data engineering pipeline that automate
 
 The pipeline was validated end-to-end with a live reconciliation test — a batch of **69 new records** moved the Redshift row count from **235 → 304**, and Power BI reconciled the same 69 records on the dashboard. The entire environment was built and **fully torn down after validation**, verified at **$0.00** in AWS Cost Explorer.
 
-📄 **[Full Project Report](CarePlus_Final_Project_Report.docx)** — complete technical documentation including data models, DQ framework, operational runbook, alerting strategy, troubleshooting case study, and production roadmap.
+📄  **[Full Project Report](Full%20Project%20Report%20.pdf)** — complete technical documentation including data models, DQ framework, operational runbook, alerting strategy, troubleshooting case study, and production roadmap.
 
 ---
 
